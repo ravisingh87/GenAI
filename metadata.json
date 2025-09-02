@@ -1,0 +1,5 @@
+{
+  "name": "AI Visiting Card Generator",
+  "description": "Generate a unique new visiting card using Imagen for the visuals and Gemini to create the text descriptions and stats for the card.",
+  "requestFramePermissions": []
+}
